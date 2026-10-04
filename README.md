@@ -1,6 +1,6 @@
 # Project Name: Dealership Review Web Application
 
-**Repository Name:** djangoapps-capstone  
+**Repository Name:** djangoapps  
 **Author:** Full Stack Developer  
 **Course:** IBM Full Stack Software Developer Capstone Project  
 
